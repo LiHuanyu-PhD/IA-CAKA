@@ -1,0 +1,9 @@
+torch>=1.12
+torchvision>=0.13
+numpy>=1.21
+Pillow>=9.0
+imageio>=2.9
+tqdm>=4.60
+timm>=0.6
+mmcv-full>=1.6,<2.0
+mmsegmentation>=0.30,<1.0
